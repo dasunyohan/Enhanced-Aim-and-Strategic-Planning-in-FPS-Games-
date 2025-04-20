@@ -1,6 +1,3 @@
-# Enhanced-Aim-and-Strategic-Planning-in-FPS-Games-
-This repository contains the final implementation of my AI-driven aim analysis and strategy generation system for Valorant. It includes gameplay data processing, object detection using YOLOv8, reinforcement learning for tactical feedback, and performance evaluation tools.
-
 # 🎯 AI-Powered Aim Analysis & Strategy Generation for Valorant
 
 This project presents an AI-based system designed to enhance player performance in the first-person shooter game **Valorant**. It leverages **YOLOv8** for object detection and **reinforcement learning** for generating adaptive strategies, using real gameplay footage as input.
