@@ -17,11 +17,11 @@ This project presents an AI-based system designed to enhance player performance 
 ## 📂 Dataset Links
 
 - 🗂 **Object Detection Dataset**  
-  - [Kaggle](https://www.kaggle.com/datasets/Dasun01/valorant-object-detection-dataset)  
+  - [Kaggle](https://www.kaggle.com/datasets/dasunoutis/valorant-object-detection-dataset)  
   - [Hugging Face](https://huggingface.co/datasets/Dasun01/Valorant-Object-Detection-Dataset)
 
 - 📋 **Tactical Strategy Dataset**  
-  - [Kaggle](https://www.kaggle.com/datasets/Dasun01/valorant-strategies)  
+  - [Kaggle](https://www.kaggle.com/datasets/dasunoutis/valorant-strategies)  
   - [Hugging Face](https://huggingface.co/datasets/Dasun01/valorant_strategies)
 
 ---
